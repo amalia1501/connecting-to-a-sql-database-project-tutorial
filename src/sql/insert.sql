@@ -30,13 +30,4 @@ INSERT INTO books (book_id, title, total_pages, rating, isbn, published_date, pu
 INSERT INTO books (book_id, title, total_pages, rating, isbn, published_date, publisher_id) VALUES (10, 'Minds and Computers: An Introduction to the Philosophy of Artificial Intelligence', 222, 3.54, '9780750000000', '2007-02-13', 7);
 
 -- book authors
-INSERT INTO book_authors (book_id, author_id) VALUES (1, 1);
-INSERT INTO book_authors (book_id, author_id) VALUES (2, 8);
-INSERT INTO book_authors (book_id, author_id) VALUES (3, 7);
-INSERT INTO book_authors (book_id, author_id) VALUES (4, 6);
-INSERT INTO book_authors (book_id, author_id) VALUES (5, 5);
-INSERT INTO book_authors (book_id, author_id) VALUES (6, 4);
-INSERT INTO book_authors (book_id, author_id) VALUES (7, 3);
-INSERT INTO book_authors (book_id, author_id) VALUES (8, 2);
-INSERT INTO book_authors (book_id, author_id) VALUES (9, 4);
-INSERT INTO book_authors (book_id, author_id) VALUES (10, 1);
+
